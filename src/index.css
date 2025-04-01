@@ -74,66 +74,16 @@ button:focus-visible {
 
 @theme inline {
    /* Modern Dark Mode */
-   --color-darkm: #00AEEF;
-   --color-secondary: #1E1E1E;
-   --color-darkaccent: #39FF14;
    --color-darkbc: #121212;
    --dark-text: #FFFFFF;
  
    /* Energetic Sports Theme */
    --color-energy: #FF3B30;
-   --energetic-secondary: #0033A0;
-   --energetic-accent: #FFC107;
-   --energetic-background: #F4F4F4;
-   --energetic-text: #333333;
+  
  
    /* Minimalist Light Mode */
-   --color-primary3: #1B3A57;
-   --minimal-secondary: #EAEAEA;
    --color-miniaccent: #DC4731;
-   --color-background: #FFFFFF;
-   --minimal-text: #000000;
-  --color-redg:#FC2E20;
-   /* High-Contrast Sports UI */
-   --high-primary: #00FF7F;
-   --high-secondary: #101010;
-   --high-accent: #00E5FF;
-   --high-background: #1C1C1C;
-   --high-text: #FFFFFF;
-
-   /* Neon Cyber Theme */
-  --neon-primary: #00FFFF;
-  --color-secondary6: #6A0DAD;
-  --neon-accent: #007BFF;
-  --color-background5: #0A0F24;
-  --neon-text: #EAEAEA;
-
-  /* Electric Wave Theme */
-  --color-primary: #0074D9;
-  --color-elec2: #8A2BE2;
-  --color-accent6: #00FFFF;
-  --color-elec1: #2C2C54;
-  --color-text6: #F8F8FF;
-  --color-navy:#000C66;
-  --color-cream:#FADCD9;
-  
-  --color-oceanblue: #00CED1;
-  --color-oceanb: #4682B4;
-  --color-ocean: #40E0D0;
-  --color-breeze: #E6F7FF;
-  --color-text9: #2C3E50;
-
-  --color-sunprime: #FF4500; /* Bright Orange */
-  --color-sunsecond: #FF6347; /* Tomato Red */
-  --color-sunaccent: #FFD700; /* Gold */
-  --color-sunback: #2C1A1D; /* Dark Maroon */
-  --color-suntext: #FFFFFF; 
-
-  --color-glowprimary: #0A75AD;
-  --color-glowsecondary: #144B7D;
-  --color-glowaccent: #50BFE6;
-  --color-glowbackground: #E1EFF6;
-  --color-text: #1C3D5A;
+   --color-redg:#FC2E20;
 
 
   --color-midnight: #050a30;
